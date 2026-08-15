@@ -30,6 +30,7 @@ def add_token(name):
 
 def get_current_and_waiting():
     conn = sqlite3.connect('clinic.db')
+    init_db()
     c = conn.cursor()
     today = datetime.now().strftime("%Y-%m-%d")
     c.execute("SELECT COUNT(*) FROM tokens WHERE date=? AND status='Waiting'", (today,))
