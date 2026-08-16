@@ -1,38 +1,12 @@
-# 🏥 Smart Clinic Token System - Dadu Clinic
+# 🏥 Dadu Clinic Token System - LIVE
 
-Live Demo: https://esur4rhxsuvgpkavsvrfe.streamlit.app
+### 🚀 LIVE LINK: https://smart-clinic-token-system-68v7.vercel.app/
 
-A simple token system for clinics to manage patients.
+> Clinic Token System deployed on Vercel using Flask | Built for Dadu Clinic | Bano Qabil Project
 
-Features:
-- Add patient token
-- Now Serving / Waiting count
-- Today's total & earning (Hisab)
-- Next patient button
+**Click Live Link to test:**
+https://smart-clinic-token-system-68v7.vercel.app/
 
-Tech: Python, Streamlit, SQLite
-
-How to run locally:
-pip install -r requirements.txt
-streamlit run clinic_app.py
-
-### 💼 For Business Owners
-
-I build custom token systems for:
-- Hospitals & Clinics 
-- Labs & X-Ray centers
-- Salons
-- NADRA Centers
-
-**Price:** Rs. 5,000 installation + training
-**WhatsApp:** wa.me/923082900562
-
-DM me for demo at your clinic.
-
-
-
-
-
-
-
-
+Features: Token Management, Patient Queue, Earning Calculator
+Tech: Python, Flask, Vercel
+By: Alisha Lashari, 
